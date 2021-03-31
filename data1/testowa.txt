@@ -1,0 +1,2 @@
+testowa funkcja
+don't touch this ;)
